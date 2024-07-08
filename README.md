@@ -92,6 +92,12 @@ Here's a visual representation of the structure:
 </p>
 
 ---
+## Collaborators
+
+This project is the result of the collaborative efforts of a diverse and talented team. Each member has contributed significantly to different aspects of the project, from initial research and data collection to final analysis and presentation.
+- **Jean Christophe Rigoni**
+- **Simon Pierre Rodner**
+---
 ## License
 This project is under the **CC BY-NC 4.0 Licence**. Check the licence file for more info. <br/>
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
