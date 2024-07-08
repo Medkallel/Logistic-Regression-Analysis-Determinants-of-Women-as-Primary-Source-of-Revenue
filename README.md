@@ -1,5 +1,6 @@
 # 📈 Logistic Regression Analysis: Determinants of Women as Primary Source of Revenue
-![banner](https://github.com/Medkallel/Logistic-Regression-Analysis-Determinants-of-Women-as-Primary-Source-of-Revenue/assets/26349357/666f252e-b9b1-4d57-9bfb-2a669c9bedd2)
+![banner](https://github.com/Medkallel/Logistic-Regression-Analysis-Determinants-of-Women-as-Primary-Source-of-Revenue/assets/26349357/c6c3ddb6-6ca2-4c2d-b713-f68660ce4778)
+
 
 
 ## Table of Contents
