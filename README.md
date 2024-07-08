@@ -1,5 +1,6 @@
 # 📈 Logistic Regression Analysis: Determinants of Women as Primary Source of Revenue
-![banner](https://github.com/Med-Kallel/Dunhumby-The-complete-Journey-Dashboard/assets/173089953/1e6b69ab-9df3-453d-96c0-e05aeb1c6ce6)
+![banner](https://github.com/Medkallel/Logistic-Regression-Analysis-Determinants-of-Women-as-Primary-Source-of-Revenue/assets/26349357/666f252e-b9b1-4d57-9bfb-2a669c9bedd2)
+
 
 ## Table of Contents
 
