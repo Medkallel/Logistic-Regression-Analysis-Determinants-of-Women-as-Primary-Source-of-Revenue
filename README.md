@@ -1,4 +1,4 @@
-# 📈 Logistic Regression Analysis: Determinants of Women as Primary Source of Revenue
+# 👩‍🔬 Logistic Regression Analysis: Determinants of Women as Primary Source of Revenue
 ![banner](banner.jpg)
 
 
