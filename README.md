@@ -14,7 +14,7 @@
 -   [Project Structure](#project-structure)
 -   [Contact me](#contact)
 -   [Conllaborators](#collaborators)
--   [Licence](#licence)
+-   [License](#license)
 
 ---
 
@@ -99,6 +99,6 @@ This project is the result of the collaborative efforts of a diverse and talente
 - **Simon Pierre Rodner**
 ---
 ## License
-This project is under the **CC BY-NC 4.0 Licence**. Check the licence file for more info. <br/>
+This project is under the **CC BY-NC 4.0 License**. Check the licence file for more info. <br/>
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
