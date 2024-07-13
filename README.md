@@ -12,8 +12,8 @@
 -   [Installation](#installation)
 -   [Usage](#usage)
 -   [Project Structure](#project-structure)
--   [Conllaborators](#collaborators)
 -   [Contact me](#contact)
+-   [Conllaborators](#collaborators)
 -   [Licence](#licence)
 
 ---
