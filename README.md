@@ -43,8 +43,10 @@ The objective of the project is to analyze, based on the 2013 Working Conditions
 
 ---
 ## Analysis Results
-The analysis Results are available in a pressentation on the following link: 
-[Analysis Prensetation Link] (https://www.canva.com/design/DAGM-nDYEGo/JS0MPodVK23CHKAz3wkHsw/view?utm_content=DAGM-nDYEGo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+The results are in a presentation in the following link:
+
+![Analysis Results](https://www.canva.com/design/DAGM-nDYEGo/JS0MPodVK23CHKAz3wkHsw/view?utm_content=DAGM-nDYEGo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 ---
 ## Installation
 
