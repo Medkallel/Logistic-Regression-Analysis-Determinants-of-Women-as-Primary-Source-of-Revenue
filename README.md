@@ -9,7 +9,7 @@
 -   [Description](#description)
 -   [Objectives](#objectives)
 -   [Dataset](#dataset)
--   [Analysis Results] (#analysis-results)
+-   [Analysis Resultats](#analysis-results)
 -   [Installation](#installation)
 -   [Usage](#usage)
 -   [Project Structure](#project-structure)
