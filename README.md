@@ -9,7 +9,7 @@
 -   [Description](#description)
 -   [Objectives](#objectives)
 -   [Dataset](#dataset)
--   [Analysis Resultats](#analysis-results)
+-   [Analysis Results](#analysis-results)
 -   [Installation](#installation)
 -   [Usage](#usage)
 -   [Project Structure](#project-structure)
@@ -44,9 +44,7 @@ The objective of the project is to analyze, based on the 2013 Working Conditions
 ---
 ## Analysis Results
 The analysis Results are available in a pressentation on the following link: 
-```sh
-https://www.canva.com/design/DAGM-nDYEGo/JS0MPodVK23CHKAz3wkHsw/view?utm_content=DAGM-nDYEGo&utm_campaign=designshare&utm_medium=link&utm_source=editor
-```
+[Analysis Prensetation Link] (https://www.canva.com/design/DAGM-nDYEGo/JS0MPodVK23CHKAz3wkHsw/view?utm_content=DAGM-nDYEGo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 ---
 ## Installation
 
